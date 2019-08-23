@@ -1,0 +1,2 @@
+# stream
+springcloud stream
